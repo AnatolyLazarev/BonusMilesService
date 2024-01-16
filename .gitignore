@@ -3,7 +3,8 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea
-BonusMilesService.iml
+*.iml
+
 
 ### Eclipse ###
 .apt_generated
